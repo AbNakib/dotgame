@@ -7,7 +7,7 @@
   "miniapp": {
     "version": "1",
     "name": "Dot Game",
-    "homeUrl": "https://your-vercel-url.vercel.app/",  // We'll update this after deployment
+    "homeUrl": "https://dotgame-cyan.vercel.app/",  // We'll update this after deployment
     "iconUrl": "https://via.placeholder.com/1024x1024.png?text=Dot+Game+Icon",  // Required: 1024x1024 PNG
     "splashImageUrl": "https://via.placeholder.com/200x200.png?text=Dot+Game+Splash",  // Required: ~200x200
     "splashBackgroundColor": "#000000",  // Required: Hex color
