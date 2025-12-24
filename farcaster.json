@@ -7,7 +7,7 @@
   "miniapp": {
     "version": "1",
     "name": "Dot Game",
-    "homeUrl": "",
+    "homeUrl": "https://abnakib.github.io/dotgame/",
     "iconUrl": "https://via.placeholder.com/128.png?text=D",
     "splashImageUrl": "https://via.placeholder.com/400.png?text=Dot+Game",
     "splashBackgroundColor": "#000000",
@@ -24,3 +24,4 @@
     "noindex": false
   }
 }
+
