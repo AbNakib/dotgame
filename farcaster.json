@@ -12,18 +12,19 @@
     "splashImageUrl": "https://via.placeholder.com/400.png?text=Dot+Game",
     "splashBackgroundColor": "#000000",
     "subtitle": "A simple paddle & ball game",
-    "description": "Play a classic retro-style mini game.",
+    "description": "Play a classic retro-style mini game in your browser.",
     "primaryCategory": "games",
-    "tags": ["game","retro","miniapp"],
+    "tags": ["game", "retro", "miniapp"],
     "tagline": "Play instantly",
-    "heroImageUrl": "https://via.placeholder.com/600.png?text=Dot+Game+Hero",
+    "heroImageUrl": "https://via.placeholder.com/1200x630.png?text=Dot+Game+Hero",
     "screenshotUrls": [
-      "https://via.placeholder.com/400.png?text=Screenshot+1",
-      "https://via.placeholder.com/400.png?text=Screenshot+2"
+      "https://via.placeholder.com/400x800.png?text=Screenshot+1",
+      "https://via.placeholder.com/400x800.png?text=Screenshot+2",
+      "https://via.placeholder.com/400x800.png?text=Screenshot+3"
     ],
     "ogTitle": "Dot Game",
-    "ogDescription": "A fun browser mini game",
-    "ogImageUrl": "https://via.placeholder.com/400.png?text=OG+Image",
-    "noindex": false
+    "ogDescription": "Play a retro mini game instantly in your browser.",
+    "ogImageUrl": "https://via.placeholder.com/1200x630.png?text=OG+Image",
+    "noindex": true
   }
 }
