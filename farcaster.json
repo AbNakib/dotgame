@@ -8,7 +8,7 @@
     "version": "1",
     "name": "Dot Game",
     "homeUrl": "https://abnakib.github.io/dotgame/",
-    "iconUrl": "https://via.placeholder.com/128.png?text=D",
+    "iconUrl": "https://via.placeholder.com/128.png?text=Dot+Game",
     "splashImageUrl": "https://via.placeholder.com/400.png?text=Dot+Game",
     "splashBackgroundColor": "#000000",
     "subtitle": "A simple paddle & ball game",
@@ -16,12 +16,14 @@
     "primaryCategory": "games",
     "tags": ["game","retro","miniapp"],
     "tagline": "Play instantly",
-    "heroImageUrl": "https://via.placeholder.com/600.png?text=Hero",
-    "screenshotUrls": ["https://via.placeholder.com/400.png?text=Screenshot1"],
+    "heroImageUrl": "https://via.placeholder.com/600.png?text=Dot+Game+Hero",
+    "screenshotUrls": [
+      "https://via.placeholder.com/400.png?text=Screenshot+1",
+      "https://via.placeholder.com/400.png?text=Screenshot+2"
+    ],
     "ogTitle": "Dot Game",
     "ogDescription": "A fun browser mini game",
     "ogImageUrl": "https://via.placeholder.com/400.png?text=OG+Image",
     "noindex": false
   }
 }
-
