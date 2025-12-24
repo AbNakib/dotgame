@@ -7,24 +7,24 @@
   "miniapp": {
     "version": "1",
     "name": "Dot Game",
-    "homeUrl": "https://abnakib.github.io/dotgame/",
-    "iconUrl": "https://via.placeholder.com/128.png?text=Dot+Game",
-    "splashImageUrl": "https://via.placeholder.com/400.png?text=Dot+Game",
-    "splashBackgroundColor": "#000000",
-    "subtitle": "A simple paddle & ball game",
+    "homeUrl": "https://your-vercel-url.vercel.app/",  // We'll update this after deployment
+    "iconUrl": "https://via.placeholder.com/1024x1024.png?text=Dot+Game+Icon",  // Required: 1024x1024 PNG
+    "splashImageUrl": "https://via.placeholder.com/200x200.png?text=Dot+Game+Splash",  // Required: ~200x200
+    "splashBackgroundColor": "#000000",  // Required: Hex color
+    "subtitle": "A simple paddle and ball game",
     "description": "Play a classic retro-style mini game in your browser.",
-    "primaryCategory": "games",
-    "tags": ["game", "retro", "miniapp"],
-    "tagline": "Play instantly",
-    "heroImageUrl": "https://via.placeholder.com/1200x630.png?text=Dot+Game+Hero",
-    "screenshotUrls": [
-      "https://via.placeholder.com/400x800.png?text=Screenshot+1",
-      "https://via.placeholder.com/400x800.png?text=Screenshot+2",
-      "https://via.placeholder.com/400x800.png?text=Screenshot+3"
+    "primaryCategory": "games",  // Required: Choose from Base's list (games, social, finance, etc.)
+    "tags": ["game", "retro", "miniapp"],  // Required: Up to 5 lowercase tags
+    "tagline": "Play instantly",  // Required: Max 30 chars
+    "heroImageUrl": "https://via.placeholder.com/1200x630.png?text=Dot+Game+Hero",  // Required: 1200x630 PNG/JPG
+    "screenshotUrls": [  // Required: Max 3, recommended 1284x2778 portrait
+      "https://via.placeholder.com/1284x2778.png?text=Screenshot+1",
+      "https://via.placeholder.com/1284x2778.png?text=Screenshot+2",
+      "https://via.placeholder.com/1284x2778.png?text=Screenshot+3"
     ],
-    "ogTitle": "Dot Game",
-    "ogDescription": "Play a retro mini game instantly in your browser.",
-    "ogImageUrl": "https://via.placeholder.com/1200x630.png?text=OG+Image",
-    "noindex": true
+    "ogTitle": "Dot Game",  // Optional but recommended for shares
+    "ogDescription": "Play a retro mini game instantly in your browser.",  // Optional
+    "ogImageUrl": "https://via.placeholder.com/1200x630.png?text=OG+Image",  // Optional
+    "noindex": true  // Optional: Set to true for testing to avoid search indexing
   }
 }
